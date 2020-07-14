@@ -1,0 +1,58 @@
+body{
+    background-color:black;
+    background: url(https://wallpaperaccess.com/full/296718.jpg);
+    
+}
+
+input {
+    width: 85%;
+    height: 2rem;
+    color:darkgoldenrod;
+    -webkit-box-shadow: 0px 0px 4px #4195fc;
+    -moz-box-shadow: 0px 0px 4px #4195fc;
+         box-shadow: 0px -2px 20px 9px #e29613;
+}
+
+.button--item{
+    color:darkgoldenrod;
+    -webkit-box-shadow: 0px 0px 4px #4195fc;
+    -moz-box-shadow: 0px 0px 4px #4195fc;
+         box-shadow: 0px -2px 20px 9px #df13df;
+         width:50%;
+         height:2rem;
+         background:cyan;
+}
+
+.comment-box{
+    -webkit-box-shadow: 0px 0px 4px #4195fc;
+    -moz-box-shadow: 0px 0px 4px #4195fc;
+         box-shadow: 0px -2px 20px 9px #1e0dda;
+}
+.myForm {
+    text-align: center;
+    display: flex;
+    align-content: center;
+    margin-left: 15%;
+  
+    flex-flow: column wrap;
+    width: 68%;
+    margin-top: 84px;
+    font-size: 57px;
+    padding: 20px 0;
+    border: 14px solid darkred;
+    border-radius: 119px;
+    color:lightskyblue;
+  }
+  .heading_contact{
+      color:purple;
+      font-size:60px;
+  }
+
+  .heading_contact:after{
+    
+        content: "Contact Me";
+        position: absolute; left: 7px; top: 48px;
+        color: rgba(38, 192, 209, 0.762);   
+        
+    
+  }

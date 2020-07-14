@@ -1,0 +1,28 @@
+.navbar {
+    background: linear-gradient(to right, black,gray, red, blue, black);
+    color: #fff;
+    overflow: auto;
+    width: 100%;
+    position: fixed;
+  }
+  .navbar ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    font-weight: bold;
+  }
+  
+  .navbar ul li {
+    float: left;
+  }
+  .navbar ul li a {
+    display: block;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    
+  }
+  .navbar ul li a:hover,
+  .navbar ul li a.current {
+    color: rgb(163, 179, 190);
+  }

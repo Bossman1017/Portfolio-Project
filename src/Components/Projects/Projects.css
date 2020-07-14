@@ -1,0 +1,145 @@
+body{
+    background-color:black;
+    background: url(https://wallpaperaccess.com/full/296718.jpg);
+    
+}
+
+h2{
+    text-align: center;
+    font-size: xxx-large;
+}
+.super_div{
+  display: flex;
+    flex-wrap: wrap;
+}
+
+.portfolio_card{
+  width:33%;
+}
+.portfolio_block{
+  display: inline-block;
+  border: #0066c7f0 3px solid;
+  box-shadow: 0px -2px 20px 9px #4195fc;
+  height: 26vh;
+  width: 90%;
+  margin-top: 63px;
+  margin-right: 38px;
+}
+ img{
+     width: 100%;
+     height: 26vh;
+ } 
+
+ .project_superdiv{
+   padding:2 rem;
+ }
+
+.title {
+	position: relative;
+	color: white;
+	font-size: 4em;
+        display: inline;
+        position: relative;
+        font: 200px Helvetica, Sans-Serif;
+        letter-spacing: -5px;
+        color: rgba(0,0,255,0.5); 
+    }
+    
+.title:after {
+        content:"Projects";
+        position: absolute; left: 15px; top: 5px;
+        color: rgba(255,0,0,0.5);   
+        
+    }
+
+    .centered{
+        position:absolute;
+        left:50vw;
+        top:50vh;
+        transform:translateX(-50%) translateY(-50%) rotateX(15deg);
+        text-align:center;
+        
+      }
+  
+      .button_div{
+        margin-top:16px;
+      }
+
+        .app_1{
+        color: white;
+      margin: 1px;
+      text-align: center;
+      background:yellowgreen;
+}
+        .app_2{
+        color: white;
+      margin: 1px;
+      text-align: center;
+      background:blue;
+}
+        .app_3{
+        color: white;
+      margin: 1px;
+      text-align: center;
+      background:red;
+}
+        .app_4{
+        color: white;
+      margin: 1px;
+      text-align: center;
+      background:blueviolet;
+}
+        .app_5{
+        color: white;
+      margin: 1px;
+      text-align: center;
+      background:darkgoldenrod;
+}
+        .app_6{
+        color: white;
+      margin: 1px;
+      text-align: center;
+      background:peru;
+}
+        .app_7{
+        color: white;
+      margin: 1px;
+      text-align: center;
+      background:black;
+}
+        .app_8{
+        color: white;
+      margin: 1px;
+      text-align: center;
+      background:yellowgreen;
+}
+.btn_style2 {
+  background: linear-gradient(black,gray);
+    border: none;
+    color: silver;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.9;
+    transition: 0.3s;
+    color: cornflowerblue;
+    box-shadow: 0px -2px 20px 10px #df0a26;
+    margin: -4px 14px -3px 22px;
+    text-decoration: none;
+}
+.btn_style1:hover {opacity: 1}  
+.btn_style1 {
+  background: linear-gradient(red,gray);
+    border: none;
+    color: silver;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.9;
+    transition: 0.3s;
+    color: cornflowerblue;
+    box-shadow: 0px -2px 20px 10px #4195fc;
+    margin: -4px 14px -3px 22px;
+    text-decoration: none;
+}
+.btn_style2:hover {opacity: 1}
