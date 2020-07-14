@@ -98,7 +98,7 @@ const Projects = () => {
                         <div className="portfolio_card">
                             <div className="portfolio_block">
                                 <h4 className="app_8">Incrementing Numbers</h4>
-                                <a href="https://nostalgic-edison-725fad.netlify.app/"></a>
+                                {/* <a href="https://nostalgic-edison-725fad.netlify.app/"></a> */}
                                 <img alt="Num" src="img/tictac.png" />
 
                                 <div className="button_div">
