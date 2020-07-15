@@ -14,8 +14,8 @@
 }
 .About_header:after{
     
-    content: "About Me";
-    position: absolute; left: 7px; top: 142px;
+    content: "Who Am I ...";
+    position: absolute; left: 5px; top: 73px;
     color: rgba(19, 203, 231, 0.762);   
     
 
@@ -108,5 +108,6 @@
       
   }
   .about-text{
-      width:50%
+      width:50%;
+      margin-top:38px;
   }

@@ -5,7 +5,7 @@ import Contacts from './Components/Contact/Contact';
 import AboutMe from './Components/About Me/About Me'
 import './Navbar.css'
 import { BrowserRouter as Router, Route, Switch , Link } from 'react-router-dom'
-
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -41,6 +41,7 @@ function App() {
       <Projects />          
       </Route>     
         </Switch>   
+        <Footer/>
         </div>  
     </Router >
     </>

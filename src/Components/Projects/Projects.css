@@ -113,6 +113,12 @@ h2{
       text-align: center;
       background:yellowgreen;
 }
+.app_9{
+  color: white;
+margin: 1px;
+text-align: center;
+background:lightslategray;
+}
 .btn_style2 {
   background: linear-gradient(black,gray);
     border: none;

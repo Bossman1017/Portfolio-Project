@@ -83,33 +83,45 @@ const Projects = () => {
                     </div>
                     <div className="portfolio_card">
 
-                       
-                            <div className="portfolio_block">
-                                <h4 className="app_7">Number Guessing Game</h4>
-                                <a href="https://goofy-wescoff-2aa740.netlify.app/">
-                                    <img alt="T-odo" src="img/speech.png" />
-                                </a>
-                                <div className="button_div">
-                                    <a href="https://github.com/Bossman1017/guessing-app" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
-                                    <a href="https://goofy-wescoff-2aa740.netlify.app/" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
-                                </div>
+
+                        <div className="portfolio_block">
+                            <h4 className="app_7">Number Guessing Game</h4>
+                            <a href="https://goofy-wescoff-2aa740.netlify.app/">
+                                <img alt="T-odo" src="img/speech.png" />
+                            </a>
+                            <div className="button_div">
+                                <a href="https://github.com/Bossman1017/guessing-app" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
+                                <a href="https://goofy-wescoff-2aa740.netlify.app/" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
                             </div>
                         </div>
-                        <div className="portfolio_card">
-                            <div className="portfolio_block">
-                                <h4 className="app_8">Incrementing Numbers</h4>
-                                {/* <a href="https://nostalgic-edison-725fad.netlify.app/"></a> */}
-                                <img alt="Num" src="img/tictac.png" />
-
-                                <div className="button_div">
-                                    <a href="https://github.com/Bossman1017/react-github-cards" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
-                                    <a href="https://admiring-neumann-77227d.netlify.app/" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
-                                </div>
+                    </div>
+                    <div className="portfolio_card">
+                        <div className="portfolio_block">
+                            <h4 className="app_8">Incrementing Numbers</h4>
+                            <a href="https://nostalgic-edison-725fad.netlify.app/">
+                                <img alt="Num" src="img/numbers.jpg" />
+                            </a>
+                            <div className="button_div">
+                                <a href="https://github.com/Bossman1017/number-change" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
+                                <a href="https://nostalgic-edison-725fad.netlify.app/" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="portfolio_card">
+                        <div className="portfolio_block">
+                            <h4 className="app_9">Gateway Project</h4>
+                            <a href="https://vibrant-varahamihira-8f912f.netlify.app/todo.html">
+                                <img alt="Num" src="img/Gateway.jpg" />
+                            </a>
+                            <div className="button_div">
+                                <a href="https://github.com/Bossman1017/Gateway-Project" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
+                                <a href="https://vibrant-varahamihira-8f912f.netlify.app/todo.html" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
                             </div>
                         </div>
                     </div>
                 </div>
-            
+            </div>
+
 
         </>
     )
