@@ -11,16 +11,18 @@ h2{
 .super_div{
   display: flex;
     flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
 .portfolio_card{
   width:33%;
+  margin-right: -9px;
 }
 .portfolio_block{
   display: inline-block;
   border: #0066c7f0 3px solid;
   box-shadow: 0px -2px 20px 9px #4195fc;
-  height: 26vh;
+  height: 29vh;
   width: 90%;
   margin-top: 63px;
   margin-right: 38px;
@@ -70,54 +72,63 @@ h2{
       margin: 1px;
       text-align: center;
       background:yellowgreen;
+      font-size: 2rem;
 }
         .app_2{
         color: white;
       margin: 1px;
       text-align: center;
       background:blue;
+      font-size: 2rem;
 }
         .app_3{
         color: white;
       margin: 1px;
       text-align: center;
       background:red;
+      font-size: 2rem;
 }
         .app_4{
         color: white;
       margin: 1px;
       text-align: center;
       background:blueviolet;
+      font-size: 2rem;
 }
         .app_5{
         color: white;
       margin: 1px;
       text-align: center;
       background:darkgoldenrod;
+      font-size: 2rem;
 }
         .app_6{
         color: white;
       margin: 1px;
       text-align: center;
       background:peru;
+      font-size: 2rem;
 }
         .app_7{
         color: white;
       margin: 1px;
       text-align: center;
       background:black;
+      font-size: 2rem;
 }
         .app_8{
         color: white;
       margin: 1px;
       text-align: center;
       background:yellowgreen;
+      font-size: 2rem;
 }
 .app_9{
   color: white;
 margin: 1px;
 text-align: center;
 background:lightslategray;
+font-size: 2rem;
 }
 .btn_style2 {
   background: linear-gradient(black,gray);
@@ -132,6 +143,7 @@ background:lightslategray;
     box-shadow: 0px -2px 20px 10px #df0a26;
     margin: -4px 14px -3px 22px;
     text-decoration: none;
+    
 }
 .btn_style1:hover {opacity: 1}  
 .btn_style1 {

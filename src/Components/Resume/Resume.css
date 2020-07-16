@@ -1,0 +1,9 @@
+.my_resume{
+    height:100vh;
+    transform: translateX(256px);
+    width:60%;
+    box-shadow: 0px -2px 20px 9px #4195fc;
+}
+h1{
+color:white;
+}
