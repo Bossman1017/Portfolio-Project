@@ -20,6 +20,11 @@ const AboutMe = () => {
             </div>
             </div>
             </div>
+            <img className = "html_footer2" src = "img/html.jpg"></img>  
+            <img className = "css_footer2" src = "img/css.jpg"></img>  
+            <img className = "js_footer2" src = "img/js.png"></img>  
+            <img className = "react_footer2" src = "img/react1.png"></img>  
+            <img className = "mysql_footer" src = "img/mysql.svg"></img>  
            </div>
             )
         }
