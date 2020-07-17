@@ -21,7 +21,8 @@ h2{
 .portfolio_block{
   display: inline-block;
   border: #0066c7f0 3px solid;
-  box-shadow: 0px -2px 20px 9px #4195fc;
+  box-shadow: 0px -2px 20px 10px #c2cfd4e8;
+
   height: 29vh;
   width: 90%;
   margin-top: 63px;
@@ -42,9 +43,10 @@ h2{
 	font-size: 4em;
         display: inline;
         position: relative;
-        font: 200px Helvetica, Sans-Serif;
+        font: 155px Helvetica, Sans-Serif;
         letter-spacing: -5px;
         color: rgba(0,0,255,0.5); 
+        top:42px;
     }
     
 .title:after {
@@ -127,7 +129,14 @@ h2{
   color: white;
 margin: 1px;
 text-align: center;
-background:lightslategray;
+background:linear-gradient(red,blue,white);
+font-size: 2rem;
+}
+.app_10{
+  color: white;
+margin: 1px;
+text-align: center;
+background:linear-gradient(blue,red,pink);
 font-size: 2rem;
 }
 .btn_style2 {
@@ -139,7 +148,7 @@ font-size: 2rem;
     font-size: 16px;
     opacity: 0.9;
     transition: 0.3s;
-    color: cornflowerblue;
+    color: whitesmoke;
     box-shadow: 0px -2px 20px 10px #df0a26;
     margin: -4px 14px -3px 22px;
     text-decoration: none;
@@ -155,7 +164,7 @@ font-size: 2rem;
     font-size: 16px;
     opacity: 0.9;
     transition: 0.3s;
-    color: cornflowerblue;
+    color: whitesmoke;
     box-shadow: 0px -2px 20px 10px #4195fc;
     margin: -4px 14px -3px 22px;
     text-decoration: none;

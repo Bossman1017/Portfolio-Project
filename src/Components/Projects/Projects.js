@@ -9,27 +9,28 @@ const Projects = () => {
             <div className="container">
                 <h2 className="title">Projects</h2>
                 <div className="super_div">
-                    <div className="portfolio_card">
+                <div className="portfolio_card">
                         <div className="portfolio_block">
-                            <h4 className="app_1">To-Do</h4>
-                            <a href="https://elastic-mestorf-cd42b4.netlify.app/">
-                                <img alt="T-odo" src="img/todo.png" />
+                            <h4 className="app_10">E-Commerce</h4>
+                            <a href="https://naven-ecommerce.netlify.app/">
+                                <img alt="Num" src="img/e-commerce.png" />
                             </a>
                             <div className="button_div">
-                                <a href="https://github.com/Bossman1017/to-do-list" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
-                                <a href="https://elastic-mestorf-cd42b4.netlify.app/" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
-                            </div>
+                                <a href="https://github.com/Bossman1017/Ecomm-React" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
+                                <a href="https://naven-ecommerce.netlify.app/" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
+                                </div>
+                   
                         </div>
                     </div>
-                    <div className="portfolio_card">
+                            <div className="portfolio_card">
                         <div className="portfolio_block">
-                            <h4 className="app_2">Tic-Tac-Toe</h4>
-                            <a href="https://jovial-kilby-234d3c.netlify.app/">
-                                <img alt="Tic" src="img/tictac.png" />
+                            <h4 className="app_9">Gateway Project</h4>
+                            <a href="https://vibrant-varahamihira-8f912f.netlify.app/todo.html">
+                                <img alt="Num" src="img/Gateway.jpg" />
                             </a>
                             <div className="button_div">
-                                <a href="https://github.com/Bossman1017/tic-tac-toe" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
-                                <a href="https://elastic-mestorf-cd42b4.netlify.app/" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
+                                <a href="https://github.com/Bossman1017/Gateway-Project" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
+                                <a href="https://vibrant-varahamihira-8f912f.netlify.app/todo.html" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
                             </div>
                         </div>
                     </div>
@@ -109,18 +110,31 @@ const Projects = () => {
                     </div>
                     <div className="portfolio_card">
                         <div className="portfolio_block">
-                            <h4 className="app_9">Gateway Project</h4>
-                            <a href="https://vibrant-varahamihira-8f912f.netlify.app/todo.html">
-                                <img alt="Num" src="img/Gateway.jpg" />
+                            <h4 className="app_2">Tic-Tac-Toe</h4>
+                            <a href="https://jovial-kilby-234d3c.netlify.app/">
+                                <img alt="Tic" src="img/tictac.png" />
                             </a>
                             <div className="button_div">
-                                <a href="https://github.com/Bossman1017/Gateway-Project" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
-                                <a href="https://vibrant-varahamihira-8f912f.netlify.app/todo.html" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
+                                <a href="https://github.com/Bossman1017/tic-tac-toe" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
+                                <a href="https://elastic-mestorf-cd42b4.netlify.app/" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
                             </div>
                         </div>
                     </div>
+                    <div className="portfolio_card">
+                        <div className="portfolio_block">
+                            <h4 className="app_1">To-Do</h4>
+                            <a href="https://elastic-mestorf-cd42b4.netlify.app/">
+                                <img alt="T-odo" src="img/todo.png" />
+                            </a>
+                            <div className="button_div">
+                                <a href="https://github.com/Bossman1017/to-do-list" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
+                                <a href="https://elastic-mestorf-cd42b4.netlify.app/" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
+                            </div>
+                                </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
+            
 
 
         </>

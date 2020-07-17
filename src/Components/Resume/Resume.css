@@ -1,9 +1,19 @@
 .my_resume{
-    height:100vh;
+    height:110vh;
     transform: translateX(256px);
     width:60%;
     box-shadow: 0px -2px 20px 9px #4195fc;
+    margin-top: 62px;
 }
-h1{
-color:white;
+.header_resume{
+    font-size: 54px;
+    color: white;
+    margin-top: 104px;
+}
+
+.my_resume:after {
+    content:"My Resume";
+    position: absolute; left: 15px; top: 5px;
+    color: rgba(15, 65, 226, 0.5);   
+    
 }
