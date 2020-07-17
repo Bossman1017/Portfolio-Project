@@ -1,13 +1,11 @@
 .text_1{
-  color: rgba(15, 227, 235, 0.762);
+  color: bisque;
     width: 94%;
     margin-top: 140px;
     font-size: 30px;
     font-weight: bold;
     /* background: linear-gradient(gray,blue); */
 }
-
-
 .About_header{
     color:rgb(149, 62, 62);
     font-size: 6rem;

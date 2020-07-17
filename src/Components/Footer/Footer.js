@@ -16,6 +16,7 @@ const Footer = () => {
             
            
             <p>Naven Kennedy's Portfolio &copy; 2020</p>
+            <p>Last Date Updated: 07/17/2020</p>
             </div>
             </div>
             </div>

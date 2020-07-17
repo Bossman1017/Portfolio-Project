@@ -36,6 +36,18 @@ const Projects = () => {
                     </div>
                     <div className="portfolio_card">
                         <div className="portfolio_block">
+                            <h4 className="app_11">Samsung Redesign</h4>
+                            <a href="https://redesign-team-9.netlify.app/">
+                                <img alt="T-odo" src="img/samsung-redesign.png" />
+                            </a>
+                            <div className="button_div">
+                                <a href="https://github.com/Bossman1017/Re-Design" className="btn_style1" target="_blank" rel="noopener noreferrer">Github Repository</a>
+                                <a href="https://redesign-team-9.netlify.app/" className="btn_style2" target="_blank" rel="noopener noreferrer">Netlify Page</a>
+                            </div>
+                                </div>
+                        </div>
+                    <div className="portfolio_card">
+                        <div className="portfolio_block">
                             <h4 className="app_3">Github Cards</h4>
                             <a href="https://admiring-neumann-77227d.netlify.app/">
                                 <img alt="Git" src="img/github.png" />
